@@ -1,0 +1,4 @@
+nodeServer/node_modules
+swiftClient/Pods
+*/.DS_Store
+.DS_Store
